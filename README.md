@@ -1,27 +1,31 @@
-# Assalamoalaikum! I'm Aasil Ghoury 👋
+# 👋 Assalamoalaikum! I'm Aasil Ghoury
 
-### Full Stack Web Developer | 5+ Years Experience | Based in Pakistan 🇵🇰
+### Full Stack Web Developer | 5+ Years of Experience
 
-Hey there! I'm Aasil Ghoury, your all-in-one **Full Stack Web Developer**, ready to take your digital projects to the next level. With over 5 years of professional experience, I specialize in creating both **visually stunning frontend designs** and **powerful backend solutions** that work seamlessly together.
-
-- 🖥️ **Frontend:** I craft responsive and user-friendly interfaces using the latest technologies.
-- ⚙️ **Backend:** Architecting scalable and efficient systems to power your web applications.
-  
----
-
-### Why Choose Me?
-
-As a Muslim, my work is deeply rooted in **integrity**, **dedication**, and a commitment to **excellence**. Whether it’s collaborating with teams or tackling solo projects, I aim to deliver top-tier results that exceed expectations.
+Hey there! I'm Aasil Ghoury, a passionate **Full Stack Web Developer** from Pakistan. I specialize in building visually appealing frontends and powerful, scalable backends.
 
 ---
 
-### Let’s Build Something Great Together!
+## 🔧 Tech Stack
 
-I’m always excited to take on new challenges and help you bring your vision to life. Let’s collaborate and create something truly remarkable!
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind
+- **Backend:** Node.js, Express, MongoDB, SQL
+- **Tools:** Git, Docker, VSCode
 
 ---
 
-💬 **Reach Out:**  
-- Email: [your-email@example.com]  
-- LinkedIn: [your-linkedin-profile-link]  
-- Portfolio: [your-portfolio-link]
+## 💼 Featured Projects
+
+- [Project 1](#) - Brief project description.
+- [Project 2](#) - Brief project description.
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+
+---
+
+🌟 Let's build something awesome together! 🌟
