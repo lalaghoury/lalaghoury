@@ -49,6 +49,8 @@ Hey there! I'm Aasil, a passionate **Full Stack Developer** from Pakistan, now d
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=lalaghoury&style=flat-square)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lalaghoury&theme=dark)](https://git.io/streak-stats)
 
 ✨ *Let's build something awesome and cloud-ready together!* ✨
