@@ -1,8 +1,6 @@
-# 👋🏼 Assalamoalaikum! I'm Aasil Ghoury
-
 ### 🌟 Full Stack Web Developer & Cloud Enthusiast | 5+ Years Experience
 
-Hey there! I'm Aasil, a passionate **Full Stack Developer** from Pakistan, now diving deep into the world of **Cloud Development** with a focus on **AWS**. I love building scalable web solutions and leveraging the power of the cloud. Let's collaborate and bring your ideas to life! 🚀
+Fullstack developer building scalable web solutions and leveraging the power of the cloud. Let's collaborate and bring your ideas to life! 🚀
 
 ---
 
