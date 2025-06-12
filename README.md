@@ -1,17 +1,33 @@
 ### 🌟 Full Stack Web Developer & Cloud Enthusiast | 5+ Years Experience
 
-Fullstack developer building scalable web solutions and leveraging the power of the cloud. Let's collaborate and bring your ideas to life! 🚀
+Fullstack developer specializing in building scalable web and mobile solutions with a focus on performance, complex data structures, and clean architecture. Passionate about delivering high-quality user experiences with modern frameworks and tools. Let's collaborate and bring your ideas to life! 🚀
 
 ---
 
 ## 🚀 Tech Stack & Cloud Skills
 
-![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Frontend Development:**
+
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Ant Design Badge](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+
+**Backend Development:**
+
+![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Database & Data Structures:**
+
+- **Complex Data Structures**: Expert in designing optimized and efficient data structures for various applications.
+- **Databases**: MongoDB, PostgreSQL, MySQL, etc.
+
+**Testing & QA:**
+
+![Playwright Badge](https://img.shields.io/badge/-Playwright-0078D4?style=flat-square&logo=playwright&logoColor=white)
+![Cypress Badge](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 **Cloud & DevOps:**
 
@@ -24,9 +40,10 @@ Fullstack developer building scalable web solutions and leveraging the power of 
 
 ## 💼 Featured Projects
 
-- 🎨 [**Project 1**](#) - A brief description of this cool project.
-- 🛠️ [**Project 2**](#) - Another project that showcases my skills.
-- ☁️ [**AWS Cloud Project**](#) - A cloud-based project utilizing AWS services like EC2, S3, Lambda, and more.
+- 🎨 [**Project 1**](#) - A web app built with **NestJS**, **React**, and **MongoDB**, featuring real-time updates and seamless user experiences.
+- 🛠️ [**Project 2**](#) - A full-stack app using **ExpressJS**, **Next.js**, and **TypeScript**, designed for optimal performance.
+- 📱 [**React Native Project**](#) - A mobile application using **React Native** and **Ant Design** for a smooth user interface and experience.
+- ☁️ [**Cloud-Based Application**](#) - A scalable web app deployed on **AWS**, utilizing services like **EC2**, **S3**, and **Lambda**.
 
 ---
 
@@ -35,8 +52,14 @@ Fullstack developer building scalable web solutions and leveraging the power of 
 - **EC2, S3, Lambda**: Building and managing cloud infrastructure.
 - **RDS, DynamoDB**: Managing databases in the cloud.
 - **IAM, CloudWatch**: Secure access control and monitoring.
-- **Cognito**: User authentication and secure access management.
 - **Elastic Beanstalk & ECS**: Deploying scalable web apps.
+
+---
+
+## 📊 Monitoring & Performance Tools
+
+- **Sentry**: Monitoring application performance and errors in real-time.
+- **Datadog**: End-to-end monitoring and analytics for enhanced visibility into application health.
 
 ---
 
@@ -47,8 +70,8 @@ Fullstack developer building scalable web solutions and leveraging the power of 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=lalaghoury&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lalaghoury&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
 ✨ *Let's build something awesome and cloud-ready together!* ✨
